@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "PS5",
+      "price": 5000
+    },
+    {
+      "id": 2,
+      "name": "PS4",
+      "price": 2500
+    },
+    {
+      "id": 3,
+      "name": "NINTENDO SWITCH",
+      "price": "2500"
+    },
+    {
+      "name": "Produto vindo do forms",
+      "price": "420",
+      "id": 4
+    }
+  ]
+}

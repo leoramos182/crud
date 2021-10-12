@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+    align-items: center;
+}
+.header img{
+    max-height: 35px;
+}
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+.header i{
+    padding-left: 30px;
+    padding-right: 8px;
+}
+.logo :hover{
+    cursor: pointer;
+}

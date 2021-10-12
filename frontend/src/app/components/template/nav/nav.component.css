@@ -1,0 +1,14 @@
+.nav-list i{
+    padding-right: 10px;
+}
+.sidenav{
+    background-color: royalblue;
+    width: 200px;
+}
+.sidenav a{
+    color: white;
+}
+.content{
+    padding: 15px;
+    background-color: white;
+}
