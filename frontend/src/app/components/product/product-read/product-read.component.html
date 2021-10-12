@@ -1,0 +1,7 @@
+<mat-card class="mat-elevation-z3 card-produto" *ngFor = 'let product of products'>
+    <span><strong>{{product.name}}</strong></span>
+    <span>Price: <strong>{{product.price}}</strong></span>
+    <span>id: <strong>{{product.id}}</strong></span>
+    <button mat-raised-button color='warn' class="button-delete">Excluir</button>
+</mat-card>
+

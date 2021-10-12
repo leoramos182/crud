@@ -1,0 +1,13 @@
+.card-produto{
+    margin-bottom: 5px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    align-items: center;
+}
+.card-produto span{
+    margin: 0 auto;
+}
+.button-delete{
+    max-width: 50%;
+    margin: 0 auto;
+}
