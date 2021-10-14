@@ -1,29 +1,29 @@
 {
-  "products": [
+  "produtos": [
     {
       "id": 1,
+      "name": "Xiaomi Redmi note 9",
+      "price": 5
+    },
+    {
+      "id": 2,
       "name": "PS5",
       "price": 5000
     },
     {
-      "id": 2,
-      "name": "PS4",
-      "price": 2500
-    },
-    {
       "id": 3,
-      "name": "NINTENDO SWITCH",
-      "price": "2500"
+      "name": "Headphone",
+      "price": 200
     },
     {
-      "name": "Produto vindo do forms",
-      "price": "420",
-      "id": 4
+      "id": "4",
+      "name": "Notebook Gamer",
+      "price": "9000"
     },
     {
-      "name": "Lapis Preto",
-      "price": "2.99",
-      "id": 5
+      "id": "5",
+      "name": "Spider Man Game",
+      "price": "250"
     }
   ]
 }
